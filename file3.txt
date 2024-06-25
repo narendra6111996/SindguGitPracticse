@@ -1,2 +1,3 @@
 this is file3.txt
 file3 is modified
+file3 line added
